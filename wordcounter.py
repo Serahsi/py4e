@@ -9,9 +9,12 @@ for line in fhand:
     for word in words:
         counter[word] = counter.get(word, 0) + 1
 
+
+print(sorted([(v,k) for k,v in counter.items()], reverse=True)[:num])
+"""
 lst = []
 for k,v in counter.items():
     lst.append((v, k))
 
 print(sorted(lst, reverse=True)[:num])
-
+"""
