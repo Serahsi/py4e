@@ -1,5 +1,5 @@
 print("Hello!\nThis is a program showing the number of words in a text.")
-inp = int(input("What would you like to do?\nFor analyzing whole text press 1\nFor counting a spesific word in the text press 2 "))
+inp = int(input("What would you like to do?\nFor analyzing whole text press 1\nFor counting a spesific word in the text press 2...: "))
 
 fname = input("Enter a file name: ")
 fhand = open(fname)
