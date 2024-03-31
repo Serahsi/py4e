@@ -1,4 +1,4 @@
 # These are simple python programs
-## Compute pay
-## Find out the grade
-## Count the words of a text
+<p> 1. Compute pay</p> 
+<p> 2. Find out the grade</p>
+<p> 3. Count the words of a text</p> 
